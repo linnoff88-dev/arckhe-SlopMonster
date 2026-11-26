@@ -14,7 +14,7 @@
 
 ## ê°Å¸ââ Guia de uso
 
-Guia completo (landing + passo a passo): **https://inematds.github.io/SlopMonster/guia/**
+Guia completo (landing + passo a passo): **https://linnoff88-dev.github.io/arckhe-/guia/**
 
 Texto de IA tem cheiro. `delve`, `seamless`, `unlock`, `it's not just a tool, it's a
 journey`. O leitor jêÂ¡ percebe, e uma pêÂ¡gina com esse cheiro êÂ© uma pêÂ¡gina em que ele
@@ -62,7 +62,7 @@ cobre o cêÂ³digo e a prosa deste repositêÂ³rio.
 ## InêÂ­cio rêÂ¡pido
 
 ```bash
-git clone https://github.com/inematds/SlopMonster && cd SlopMonster
+git clone https://github.com/linnoff88-dev/SlopMonster && cd SlopMonster
 
 # pontuar qualquer coisa
 python3 tools/deslop.py --text "It's not just a tool, it's a game-changing journey."

@@ -8,7 +8,7 @@
 
 ## 📖 User guide
 
-Complete guide (landing page + walkthrough): **https://inematds.github.io/SlopMonster/guia/en/**
+Complete guide (landing page + walkthrough): **https://linnoff88-dev.github.io/arckhe-/guia/en/**
 
 AI text has a smell. `delve`, `seamless`, `unlock`, `it's not just a tool, it's a
 journey`. Readers already notice, and a page with that smell is a page they stop
@@ -56,7 +56,7 @@ covers the code and prose in this repository.
 ## Quick start
 
 ```bash
-git clone https://github.com/inematds/SlopMonster && cd SlopMonster
+git clone https://github.com/linnoff88-dev/SlopMonster && cd SlopMonster
 
 # score anything
 python3 tools/deslop.py --text "It's not just a tool, it's a game-changing journey."
